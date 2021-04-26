@@ -24,8 +24,7 @@ const Index = (props: IIndexProps) => {
       <main className="main">
         <img src="/static/aquarium.svg" alt="a" className="background-image" />
         <div className="promotional-message">
-          <h3>NONAME</h3>
-          <h2>Technology</h2>
+          <h3>NoName Technology</h3>
           <p>An <strong>exclusive collection of custom tech</strong> available for everyone.</p>
         </div>
         <ProductList products={props.products} />

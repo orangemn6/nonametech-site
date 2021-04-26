@@ -97,7 +97,7 @@ html, body {
   margin-top: 25px;
   text-align: center;
 
-  h3 {
+  h2 {
     font-size: 20px;
     line-height: normal;
     text-align: center;
@@ -106,7 +106,7 @@ html, body {
     margin: 0;
   }
 
-  h2 {
+  h3 {
     font-size: 100px;
     @include mobile { font-size: 50px; }
     margin: 0;
