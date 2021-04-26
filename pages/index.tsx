@@ -41,7 +41,7 @@ Index.getInitialProps = async () => {
     products: [
          {id: "SupermanMousepad", name: "Superman - Mousepad", price: 35.00, image: "../static/halfmoon.jpg", description: "High quality mousepads with stitched edges and clean swirl deisgn."} as IProduct,
          {id: "Redtiger", name: "Red Tiger - Mousepad", price: 35.00, image: "../static/halfmoon.jpg", description: "High quality mousepad with stitched edges and clean swirl design."} as IProduct,
-         {id: "Tsunami, name: "Tsunami - Mousepad", price: 35.00, image: "../static/halfmoon.jpg", description: "High quality mousepad with stitched edges and clean swirl design."} as IProduct,
+         {id: "Tsunami", name: "Tsunami - Mousepad", price: 35.00, image: "../static/halfmoon.jpg", description: "High quality mousepad with stitched edges and clean swirl design."} as IProduct,
          {id: "Vintage", name: "Vintage - Mousepad", price: 35.00, image: "../static/halfmoon.jpg", description: "High quality mousepad with stitched edges and clean swirl design."} as IProduct,
          {id: "Vortex", name: "Vortex - Mousepad", price: 35.00, image: "../static/halfmoon.jpg", description: "High quality mousepad with stitched edges and clean swirl design."} as IProduct,
          {id: "Bengal", name: "Bengal - Mousepad", price: 35.00, image: "../static/halfmoon.jpg", description: "High quality mousepad with stitched edges and clean swirl design."} as IProduct,
