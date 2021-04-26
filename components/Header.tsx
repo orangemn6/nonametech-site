@@ -7,7 +7,7 @@ export default function Header() {
         <img src="/static/logo.svg" alt="" className="header__logo" />
       </Link>
       <Link href="/">
-        <h1 className="header__title">FishCastle</h1>
+        <h1 className="header__title">NoNameTech</h1>
       </Link>
       <a className="header__summary snipcart-checkout snipcart-summary" href="#" style={{textDecoration: "none"}}>
         <svg width="31" height="27" viewBox="0 0 31 27" fill="none" xmlns="http://www.w3.org/2000/svg">
