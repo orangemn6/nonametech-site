@@ -1,0 +1,30 @@
+{
+  "mini-css-extract-plugin node_modules/.pnpm/css-loader@1.0.0/node_modules/css-loader/index.js??ref--6-1!node_modules/.pnpm/sass-loader@6.0.6_node-sass@5.0.0/node_modules/sass-loader/lib/loader.js??ref--6-2!styles.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": []
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "css node_modules/.pnpm/css-loader@1.0.0/node_modules/css-loader/index.js??ref--6-1!node_modules/.pnpm/sass-loader@6.0.6_node-sass@5.0.0/node_modules/sass-loader/lib/loader.js??ref--6-2!styles.scss 0": 0,
+      "css node_modules/.pnpm/css-loader@1.0.0/node_modules/css-loader/index.js??ref--6-1!node_modules/.pnpm/sass-loader@6.0.6_node-sass@5.0.0/node_modules/sass-loader/lib/loader.js??ref--6-2!styles.scss 1": 1
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1
+    }
+  },
+  "chunks": {
+    "byName": {},
+    "bySource": {},
+    "usedIds": []
+  }
+}
