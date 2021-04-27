@@ -1,4 +1,5 @@
-import {withRouter, RouterProps} from "next/router"
+import RouterProps from "next/router"
+import WithRouter from "next/router"
 
 export interface IProduct {
   id: string
